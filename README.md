@@ -1,4 +1,6 @@
 # Claude Code Statusline with ccusage Integration
+## Photo
+<img width="631" height="227" alt="image" src="https://github.com/user-attachments/assets/8f0391af-0702-4c0f-8a6e-26a684375b9e" />
 
 [English](#english) | [中文](#中文)
 
